@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NightmaretrickyIcons.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="loss0000" x="2" y="2" width="161" height="176"/>
+	<SubTexture name="loss0001" x="156" y="2" width="161" height="176"/>
+	<SubTexture name="loss0002" x="310" y="2" width="161" height="176"/>
+	<SubTexture name="loss0003" x="464" y="2" width="161" height="176"/>
+	<SubTexture name="normal0000" x="618" y="2" width="161" height="176"/>
+	<SubTexture name="normal0001" x="772" y="2" width="161" height="176"/>
+	<SubTexture name="normal0002" x="2" y="180" width="161" height="176"/>
+	<SubTexture name="normal0003" x="156" y="180" width="161" height="176"/>
+	<SubTexture name="win0000" x="618" y="2" width="152" height="176"/>
+	<SubTexture name="win0001" x="772" y="2" width="152" height="176"/>
+	<SubTexture name="win0002" x="2" y="180" width="152" height="176"/>
+	<SubTexture name="win0003" x="156" y="180" width="152" height="176"/>
+</TextureAtlas>
