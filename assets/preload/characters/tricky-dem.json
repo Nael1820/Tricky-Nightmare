@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				227,
+				-255
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				200,
+				-157
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sing Left"
+		},
+		{
+			"offsets": [
+				260,
+				-226
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing Right"
+		},
+		{
+			"offsets": [
+				238,
+				-245
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sing Down"
+		},
+		{
+			"offsets": [
+				187,
+				-246
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sing Up"
+			},
+		{
+			"offsets": [
+				187,
+				-246
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "1",
+			"indices": [],
+			"name": "Sing Up"
+			},
+		{
+			"offsets": [
+				187,
+				-246
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "2",
+			"indices": [],
+			"name": "Sing Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TrickyMask",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tricky",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
